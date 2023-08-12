@@ -6,7 +6,8 @@
 Admin dashboard created with HTML and CSS (Grid and Flexbox).
 
 ## Preview
-![Admin_Dashboard](https://github.com/EddieBahago/admin-dashboard/assets/134744422/75a9b646-739b-408b-ae54-a882ad4081ca)
+![Admin_Dashboard_Screenshot](https://github.com/EddieBahago/admin-dashboard/assets/134744422/f9d5e81e-9a60-4107-b45c-7375a62271a1)
+
 
 
 
