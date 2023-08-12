@@ -13,7 +13,7 @@ Admin dashboard created with HTML and CSS (Grid and Flexbox).
 
 ## Usage
 
-1. Display the My most recent Projects
+1. Display My most recent Projects
 2. View Trending Project from Web Developers I am Following.
 3. Announcement and information for Web Developers
 
